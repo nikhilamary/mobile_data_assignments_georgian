@@ -1,0 +1,23 @@
+{
+  "name": "mobile_data_assignments_georgian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilamary/mobile_data_assignments_georgian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilamary/mobile_data_assignments_georgian/issues"
+  },
+  "homepage": "https://github.com/nikhilamary/mobile_data_assignments_georgian#readme"
+}
