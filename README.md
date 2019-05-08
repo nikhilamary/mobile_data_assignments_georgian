@@ -1,0 +1,1 @@
+# mobile_data_assignments_georgian
